@@ -49,8 +49,9 @@ Armbian_24.8.0_amlogic_s905w_bookworm_6.1.49_server_2024.img.xz
 -	On Linux/macOS:
 -	sudo dd if=Armbian_24.8.0_amlogic_s905w_bookworm_6.1.49_server_2024.img of=/dev/sdX bs=1M status=progress
 -	sync
+or use BalenaEtcher for Mac OS 
 (replace /dev/sdX with your actual USB device)
--	On Windows: use balenaEtcher or Rufus.
+-	On Windows: use BalenaEtcher or Rufus.
  
 Step 2. Boot the TV box into recovery mode
 1.	Unplug power from the TV box.
